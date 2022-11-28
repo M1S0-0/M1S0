@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate Bug Hunter | Researcher | Penetration Tester</h3>
-<img aling="right" alt="hacker" width="400px" src="https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif">
+<img align="right" src="https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif" />
 <p align="left"> <a href="https://twitter.com/unknownmnz" target="blank"><img src="https://img.shields.io/twitter/follow/unknownmnz?logo=twitter&style=for-the-badge" alt="unknownmnz" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking | Penetration Testing**
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknownmnz&show_icons=true&locale=en&layout=compact" alt="unknownmnz" /></p>
 
