@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/unknownmnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unknownmnz" height="30" width="40" /></a>
+  <a href="https://bugcrowd.com/M1S0" target="blank"><img align="center" src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" alt="unknownmnz" height="30" width="40" /></a>
 </p>
 
 
