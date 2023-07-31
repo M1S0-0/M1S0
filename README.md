@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Ethical Hacking | Penetration Testing **
 
-- 📫 How to reach me **s.manish7628@gmail.com**
-
 - ⚡ Fun fact **Hacking is a Funny fast Because I like to make internet a save place**
 
 <h3 align="left">Connect with me:</h3>
