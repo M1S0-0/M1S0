@@ -3,7 +3,6 @@
 <img align="right" width="400px" src="https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif" />
 <p align="left"> <a href="https://twitter.com/unknownmnz" target="blank"><img src="https://img.shields.io/twitter/follow/unknownmnz?logo=twitter&style=for-the-badge" alt="unknownmnz" /></a> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking | Penetration Testing **
 
 - ⚡ Fun fact **Hacking is a Funny fast Because I like to make internet a save place**
 
